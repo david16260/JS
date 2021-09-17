@@ -3,12 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import NewComponent from './NewComponent';
-import Header from './Header';
-import Footer from './Footer';
-import ComponentePrueba from './ComponentePrueba';
-import Estudiantes from './Estudiantes';
-import Bienvenido from './Bienvenido';
+import Header from './Components/Molecule/Header';
+import Footer from './Components/Molecule/Footer';
+import ComponentePrueba from './Components/Molecule/ComponentePrueba';
+import Estudiantes from './Components/Molecule/Estudiantes';
+import Bienvenido from './Components/Molecule/Bienvenido';
 
 //ReactDOM.render(
   //<ComponentePrueba nombre="David" edad = "18" genero="M"/>,

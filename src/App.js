@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Header from './Header';
-import Contenedor from './Contenedor';
-import Contacto from './Contacto';
-import DetalleEstudiante from './DetalleEstudiante';
-import MainMenu from './MainMenu';
+import Header from './Components/Molecule/Header';
+import Contenedor from './Components/Organism/Contenedor';
+import Contacto from './Components/Organism/Contacto';
+import DetalleEstudiante from './Components/Molecule/DetalleEstudiante';
+import MainMenu from './Components/Molecule/MainMenu';
 
 function App() {
   return(

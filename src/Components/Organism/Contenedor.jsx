@@ -1,6 +1,6 @@
 import React from 'react';
-import Estudiantes from './Estudiantes';
-
+//import Estudiantes from './';
+import Estudiantes from '../Molecule/Estudiantes';
 
 const estudiantes = [
     {

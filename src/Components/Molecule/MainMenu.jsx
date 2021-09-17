@@ -11,9 +11,9 @@ const MainMenu = () => (
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active"><NavLink to="/">Home</NavLink></a>
-      <a class="nav-item nav-link" ><NavLink to="/estudiantes">Estudiantes</NavLink></a>
+      <a class="nav-item nav-link" ><NavLink to="/estudiantes">Personajes</NavLink></a>
       <a class="nav-item nav-link"><NavLink to="/contacto">Contacto</NavLink></a>
-      
+     
     </div>
   </div>
 </nav>
